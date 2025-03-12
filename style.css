@@ -1,3 +1,30 @@
-#barra amarela{
-    background-color: gold;
+#navbar{
+    background-color: rgb(212, 212, 212);
+    margin: 0px;
+    padding: 0px;
 }
+
+#navbar h1{
+    margin: 10px;
+    border: 5px;
+    padding: 5px; 
+}
+
+#barraamarela{
+
+    background: repeating-linear-gradient(
+        135deg,
+        #ecbf2b,
+        #ffce2e 15px,
+        #FFE13A 10px,
+        #FFE13A 30px
+        );
+        
+        width: auto;
+        height: 15px;
+}
+
+#botoesprincipais{
+    margin: 5px;
+}
+
